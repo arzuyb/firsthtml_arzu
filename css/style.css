@@ -1,0 +1,119 @@
+/*! HTML5 Boilerplate v9.0.1 | MIT License | https://html5boilerplate.com/ */
+
+/* main.css 3.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+* {
+  margin: 0;
+  padding:0;
+}
+
+body {
+  color: #444;
+  font-family: sans-serif;
+  border-top: 10px solid #1098ad;
+  position: relative;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+article {
+  margin-bottom: 60px;
+}
+
+.post-header {
+  padding: 20px 40px;
+  margin-bottom: 60px;
+
+}
+
+h1,
+h2,
+h3 {
+  color: #1098ad;
+}
+
+h1 {
+  font-size: 26px;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.2;
+  margin-bottom: 15px;
+}
+
+ul,
+ol {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+li {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+.post-img {
+  width: 100%;
+  height: auto;
+}
+
+.author-img {
+  float: left;
+  margin: 0 20px 20px 0;
+}
+a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ec109b;
+}
+
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
+}
+
+
+
+
+
+
